@@ -37,13 +37,13 @@
 
 /* white square */
 .white-1e1d7 {
-  background-image: url("A://chess ai sc/chess/chess-ai/code/img/chesspieces/wikipedia/wood.png");
+  background-image: url("wood.png");
   color: #000000;
 }
 
 /* black square */
 .black-3c85d {
-  background-image: url("A://chess ai sc/chess/chess-ai/code/img/chesspieces/wikipedia/bwood.png");
+  background-image: url("bwood.png");
   color: #D27D2D;
 }
 
